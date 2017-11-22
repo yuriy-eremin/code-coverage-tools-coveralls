@@ -1,3 +1,5 @@
+package com.github.yuriyeremin.codecoveragetoolstest
+
 import scala.annotation.tailrec
 
 
